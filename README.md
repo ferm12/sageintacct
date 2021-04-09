@@ -12,3 +12,4 @@ git clone https://github.com/ferm12/sageintacct
 
 3. provide the database information by editing the config.php file
 ```
+Demo: https://sageintacct.ferminpureco.com/
