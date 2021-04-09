@@ -1,6 +1,7 @@
 <?php
+// provide Database information.
     $config = [
-        'DB_DATABASE' => 'sageintacct',
-        'DB_USERNAME' => 'sageintacct',
-        'DB_PASSWORD' => '12345'
+        'DB_DATABASE' => 'edit this',
+        'DB_USERNAME' => 'edit this',
+        'DB_PASSWORD' => 'edit this'
     ];
