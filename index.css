@@ -1,0 +1,158 @@
+body{
+    margin:0px;
+}
+
+/* Nav */
+header{
+    background-color: #a7a7a7fa;
+}
+
+nav {
+    width: 80%;
+    max-width: 1080px;
+    margin: auto;
+
+    display:flex;
+    align-items:center;
+    height: 40px;
+}
+
+.logo img{
+    width:50px;
+}
+
+
+
+
+
+nav ul{
+    display:flex;
+}
+
+nav li{
+    list-style:none;
+    margin:10px;
+    font-size:18px;
+    text-decoration: none;
+    color:rgba(0,0,0,0.5);
+
+}
+nav li a{
+    text-decoration:none;
+}
+nav li a:hover{
+    text-decoration:underline;
+}
+
+/* Aside bar */
+aside{
+    background-color: #f1f0f1fa;
+    width: 20%;
+    display:flex;
+    justify-content:center
+}
+aside ul{
+    padding:0px;
+}
+
+aside li{
+    list-style:none;
+
+}
+aside li a{
+    text-decoration:none;
+}
+
+main{
+    display:flex;
+}
+main section{
+    width: 80%;
+    margin: auto;
+
+    padding:0px 20px;
+
+
+}
+form{
+    padding:30px 0px 0px 0px;
+
+}
+form input[type="submit"]{
+/* .btn { */
+    border: solid 1px gray;
+    text-decoration: none;
+    background-color:#d7d7e0;
+    border-color:rgba(0,0,0,0.1);
+    color:rgba(0,0,0.0.5);
+    padding:5px 12px;
+}
+
+
+/* Footer */
+footer {
+    padding:5px 0;
+    /* background-color:#ffffff; */
+    background-color: #a7a7a7fa;
+    color:#4b4c4d;
+}
+
+footer ul {
+    width: 80%;
+    max-width: 1080px;
+    margin: auto;
+
+
+    display:flex;
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+}
+
+footer li {
+    padding:0 10px;
+}
+
+footer ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+}
+
+footer ul a:hover {
+    opacity:1;
+}
+
+footer .social {
+    text-align:center;
+    padding-bottom:25px;
+}
+
+footer .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+}
+
+footer .social > a:hover { 
+    opacity:0.9;
+}
+
+footer .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:white;
+    margin-bottom:0;
+}
