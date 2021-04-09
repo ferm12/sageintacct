@@ -1,5 +1,5 @@
 # sageintacct
-
+```
 installation instructions:
 
 1. Depending on your OS make sure you have one of the following installed:
@@ -11,3 +11,4 @@ MAMP for Mac
 git clone https://github.com/ferm12/sageintacct
 
 3. provide the database information by editing the config.php file
+```
