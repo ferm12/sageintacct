@@ -10,6 +10,8 @@ MAMP for Mac
 2. cd into your Apache root folder and clone this repo:
 git clone https://github.com/ferm12/sageintacct
 
-3. provide the database information by editing the config.php file
+3. cd into the sageintacct folder
+
+4. provide the database information by editing the config.php file
 ```
 Demo: https://sageintacct.ferminpureco.com/
