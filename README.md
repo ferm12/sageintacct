@@ -2,7 +2,7 @@
 ```
 installation instructions:
 
-1. Depending on your OS make sure you have one of the following installed:
+1. Depending on your OS, make sure you have one of the following installed:
 WAMP for Windows
 LAMP for Linux 
 MAMP for Mac
